@@ -15,6 +15,7 @@ This project allows users to browse products, add items to cart, and manage thei
 * 🎨 Responsive UI with Tailwind CSS
 * 🔄 Real-time updates in cart
 
+---
 
 ## 🛠️ Tech Stack
 
